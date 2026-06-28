@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Next sawit portfolio app
 
-## Getting Started
+<p align="center">
+  <kbd>
+<img width="180"  alt="729919364_1015919890928340_4100880842379952781_n" src="https://github.com/user-attachments/assets/e4e0b2be-aed6-4bfc-b318-057c32e7a6c3" />
 
-First, run the development server:
+</kbd>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  <kbd>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img width="180" alt="730992232_1661332634925659_6205290092935689042_n" src="https://github.com/user-attachments/assets/d51648be-95c4-4cf9-8d11-f973821f661b" />
+ </kbd>
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<p align="center">
+  <kbd>
+<img width="180" alt="732831568_934022933031776_6675315452676147602_n" src="https://github.com/user-attachments/assets/f405aa8f-dccd-4726-9584-a6c6b30b44db" />
+ </kbd>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+  <kbd>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+<img width="180" alt="731650726_1489657999100149_5523056768517822572_n" src="https://github.com/user-attachments/assets/8e45a8da-9e63-45c4-9bb5-31281fa3d1ac" />
+  </kbd>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<p align="center">
+  <kbd>
+<img width="180" alt="729919378_1385340376776569_62988879945895851_n" src="https://github.com/user-attachments/assets/ddf766d7-10cb-4e33-8e93-a23bd0bb87fe" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+</kbd>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+  <kbd>
+
+<img width="180" alt="730039982_1347347507324036_2964896804570998114_n" src="https://github.com/user-attachments/assets/b0a733d2-8fd8-49f0-836b-d6684e35cdb9" />
+ </kbd>
+</p>
+
+
+
+
